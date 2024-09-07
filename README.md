@@ -19,9 +19,10 @@ This project was built using the following technologies to deliver a fast, respo
 - Learning-Oriented Project: This project was a learning exercise, with a focus on improving skills in React, Vite, and Tailwind CSS, and understanding how to integrate a chatbot interface within a web application.
 
 ## 📦 **Deployment**
-The website is planned for deployment soon! Stay tuned for the live version to be available:
+The website is currently live, check it out for yourself here: https://rf-brainwave.vercel.app
 
 ## 📧 **Contact** 
 If you have any questions, suggestions, or just want to connect, feel free to reach out!
 Email: rfard13@gmail.com
+
 LinkedIn: https://linkedin.com/in/riyan-fardin
